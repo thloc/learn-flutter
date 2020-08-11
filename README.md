@@ -11,6 +11,9 @@ flutter run
 - Checks your environment and displays a report to the terminal window
 `flutter doctor -v`
 
+- Install packages:
+`flutter packages get`
+
 ### VS Code
 - Run the iOS simulator: **open -a Simulator**
 - Run app: **Debug > Start Without Debugging > Dart & Flutter**
