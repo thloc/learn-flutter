@@ -14,6 +14,9 @@ flutter run
 - Install packages:
 `flutter packages get`
 
+- Create android folder and ios folder:
+`flutter create .`
+
 ### VS Code
 - Run the iOS simulator: **open -a Simulator**
 - Run app: **Debug > Start Without Debugging > Dart & Flutter**
